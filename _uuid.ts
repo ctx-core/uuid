@@ -19,4 +19,6 @@ export function _uuid() {
 	) {}
 	return b
 }
-export const uuid = _uuid
+export {
+	_uuid as uuid
+}

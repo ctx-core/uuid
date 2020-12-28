@@ -1,5 +1,11 @@
 # @ctx-core/uuid
 
+## 4.1.0
+
+### Minor Changes
+
+- \_uuid: extracted from lib
+
 ## 4.0.5
 
 ### Patch Changes
