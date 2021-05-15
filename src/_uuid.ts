@@ -1,8 +1,8 @@
 //https://gist.github.com/LeverOne/1308368
 export function _uuid() {
-	let a, b
+	let a = 0, b = ''
 	for (							 // loop :)
-		b = a = '';				 // b - result , a - numeric variable
+		;				 // b - result , a - numeric variable
 		a++ < 36;				 //
 		b += a * 51 & 52	// if "a" is not 9 or 14 or 19 or 24
 				 ?	 //	 return a random number or 4
