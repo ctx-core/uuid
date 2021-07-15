@@ -1,5 +1,11 @@
 # @ctx-core/uuid
 
+## 8.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+
 ## 8.0.1
 
 ### Patch Changes
