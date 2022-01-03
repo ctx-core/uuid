@@ -1,5 +1,11 @@
 # @ctx-core/uuid
 
+## 8.0.34
+
+### Patch Changes
+
+- version bump
+
 ## 8.0.33
 
 ### Patch Changes
