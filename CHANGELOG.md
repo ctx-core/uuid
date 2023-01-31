@@ -1,5 +1,11 @@
 # @ctx-core/uuid
 
+## 8.0.40
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 8.0.39
 
 ### Patch Changes
