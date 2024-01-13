@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/uuid",
-	"version": "8.3.16",
+	"version": "8.3.17",
 	"description": "ctx-core uuid",
 	"keywords": [
 		"ctx-core",
@@ -38,7 +38,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.18.0"
+		"ctx-core": "^5.18.1"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
