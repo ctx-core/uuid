@@ -1,5 +1,13 @@
 # @ctx-core/uuid
 
+## 8.3.91
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 8.3.90
 
 ### Patch Changes
