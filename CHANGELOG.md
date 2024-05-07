@@ -1,5 +1,11 @@
 # @ctx-core/uuid
 
+## 8.3.115
+
+### Patch Changes
+
+- ctx-core: ^7.2.5 -> ^7.2.6
+
 ## 8.3.114
 
 ### Patch Changes
