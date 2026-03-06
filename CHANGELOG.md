@@ -1,5 +1,13 @@
 # @ctx-core/uuid
 
+## 8.3.142
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 8.3.141
 
 ### Patch Changes
